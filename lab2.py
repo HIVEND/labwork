@@ -1,0 +1,5 @@
+#2) area of triangle (by taking user input)
+h = int(input("enter the height"))
+b = int(input("enter the base"))
+Area = (1/2)*(b*h)
+print("the area of the triangle is {} cm\u00b2.".format(Area))
